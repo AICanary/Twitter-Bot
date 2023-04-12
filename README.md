@@ -41,14 +41,14 @@ API_KEY = 'YOUR_API_KEY'
 API_SECRET_KEY = 'YOUR_API_SECRET_KEY'
 ACCESS_TOKEN = 'YOUR_ACCESS_TOKEN'
 ACCESS_TOKEN_SECRET = 'YOUR_ACCESS_TOKEN_SECRET'
+```
 
-
-Running the Bot
+# Running the Bot
 To run the bot, simply execute the main.py file:
 
-python main.py
+# python main.py
 
 The bot will fetch the latest news headlines from Pakistan, add relevant hashtags, and post them on Twitter.
 
-License
+# License
 This project is licensed under the MIT License - see the LICENSE file for details.
