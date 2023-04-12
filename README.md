@@ -1,6 +1,6 @@
 # Twitter Bot
 
-This is a Twitter bot that posts the latest news headlines from Pakistan along with relevant hashtags.
+This is a Twitter bot that posts the latest news headlines from Pakistan by Defualt but you can change with any country along with relevant hashtags.
 
 ## Getting Started
 
