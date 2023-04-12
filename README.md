@@ -2,6 +2,9 @@
 
 This is a Twitter bot that posts the latest news headlines from Pakistan by Defualt but you can change with any country along with relevant hashtags.
 
+# Check Example:
+https://twitter.com/Jawadfaroq
+
 ## Getting Started
 
 ### Prerequisites
